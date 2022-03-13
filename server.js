@@ -10,7 +10,7 @@ db.connectDb();
 const server = http.createServer((req, res) => {
   res.statusCode = 200;
   res.setHeader('Content-Type', 'text/plain');
-  res.end('Waahhhh whah why World');
+  res.end('why world');
 });
 
 server.listen(port, hostname, () => {

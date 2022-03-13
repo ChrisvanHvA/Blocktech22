@@ -1,5 +1,5 @@
 const { MongoClient } = require("mongodb");
-mongodb+srv://ChrisvanHvA:Zeemannen123!@cluster0.qzliq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+// Replace the uri string with your MongoDB deployment's connection string.
 const uri =
   "mongodb+srv://<user>:<password>@<cluster-url>?retryWrites=true&writeConcern=majority";
 const client = new MongoClient(uri);
