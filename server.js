@@ -1,8 +1,8 @@
 const http = require('http');
 
 const hostname = '127.0.0.1';
-const port = 3000;
-var PORT = process.env.PORT || 3000;
+const port  = process.env.PORT || 3000;
+
 const db = require('./db');
 
 db.connectDb();
