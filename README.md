@@ -1,4 +1,4 @@
-# <span style="color:red"> Datebattle! </span>
+# <span style="color:red">Datebattle!</span>
 **bold** The first application that lets you fight for the ones you may love.
 
 produced by:
