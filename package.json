@@ -1,8 +1,8 @@
 {
   "name": "tech22",
   "version": "1.0.0",
-  "description": "",
-  "main": "handlejava.js",
+  "description": "hope this works",
+  
   "dependencies": {
     
     "dotenv": "^16.0.0",
@@ -15,8 +15,6 @@
     "stylelint-config-standard": "^25.0.0"
   },
   
-    "extends": "stylelint-config-standard"
-  },
   "scripts": {
     "start": "nodemon server.js"
   },
