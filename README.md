@@ -1,5 +1,5 @@
-# Datebattle!
-## The first application that lets you fight for the ones you may love.
+# <span style="color:red"> Datebattle! </span>
+**bold** The first application that lets you fight for the ones you may love.
 
 produced by:
 Chris Gabriel III
