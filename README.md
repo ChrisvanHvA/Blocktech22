@@ -14,9 +14,8 @@ to keep it from being confusing for the players.
 this application is currently still a work in progress, although it is connected to a MongoDB and has heroku installed, the the database itself is still empty, but if you're an experienced developer send me a message to gain access to MongoDB
 you can also download my full repository by using this command in git:
 ```
-{
+
 $git clone https://github.com/ChrisvanHvA/Blocktech22.git
-} 
 ``` 
 ## Required packages
 (if you want to get the full usability out of the code, you need to get a few packages within your node package manager:
